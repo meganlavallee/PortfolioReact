@@ -22,7 +22,7 @@ export default function ImgMediaCard() {
       <CardActionArea>
         <CardMedia
           component="img"
-          alt="Contemplative Reptile"
+          alt="balloonglow"
           height="140"
           image="/static/images/cards/contemplative-reptile.jpg"
           title="Contemplative Reptile"
